@@ -11,7 +11,24 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
+.section3{
+    padding-left:  50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+     margin-top: -60px;
+}
+.mission{
+    text-align: center;
+}
+.vission{
+    text-align: center;
+}
+.goals{
+    text-align: center;
+}
+
 .half-width{
     width: 50%
     padding-left: 5%;
@@ -26,4 +43,38 @@ section{
     color: ivory;
     font-weight: 700;
     border-radius: 5px;
+}
+.yellow-color{
+    color: rgb(221, 144, 27);
+}
+#our-mission-in-2022{
+    text-align: center;
+    margin: 0%;
+}
+.smaller{
+    max-width: 30%;
+    size: 5px;
+
+}
+.margin{
+    margin: 10px; px;
+}
+.xy1{
+background-color:rgba(128, 183, 247, 0.274);
+border-radius: 25px;
+}
+
+.xy2{
+    background-color:rgba(83, 117, 19, 0.397);
+    border-radius: 25px;
+}
+
+.xy3{
+    background-color: rgba(218, 107, 181, 0.527);
+    border-radius: 25px;
+}
+
+.footer{
+        text-align: center;
+        background-color:rgb(63, 61, 61);
 }
