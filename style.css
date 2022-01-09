@@ -47,9 +47,9 @@ section{
 .yellow-color{
     color: rgb(221, 144, 27);
 }
-#our-mission-in-2022{
+#our-mission{
     text-align: center;
-    margin: 0%;
+    margin: auto;
 }
 .smaller{
     max-width: 30%;
